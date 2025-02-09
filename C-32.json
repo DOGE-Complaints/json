@@ -1,0 +1,39 @@
+{
+    "session_id": "zeya888_my_first_dogecomplaint",
+    "user": {
+        "first_name": "Evgeniya",
+        "last_name": "Slinko"
+    },
+    "problem_categories": [
+        "Police inaction",
+        "Abuse of power by security services",
+        "Human rights violation"
+    ],
+    "description": "On October 31, 2021, at 14:40, in the parking lot of the Sikupilli shopping center (Tallinn, Estonia), a security guard from FORUS Security (ID 36903255230) used pepper spray directly in my face without warning, despite the fact that I was already outside and posed no threat. The attack caused severe pain, temporary blindness, and I fell onto the pavement. I barely managed to get home. The medical diagnosis confirmed chemical eye damage (medical report No. 1003173085 from 31.10.2021, issued by AS Ida-Tallinna Keskhaigla). I filed a police report, but instead of opening a criminal case, the police attempted to accuse me of violating the mask mandate, ignoring the unlawful use of force against me.",
+    "related_events": [
+        "COVID-19 repression",
+        "Systemic human rights violations"
+    ],
+    "location": {
+        "details": "Parking lot of Sikupilli shopping center",
+        "place": "Tallinn, Estonia"
+    },
+    "media_files": [
+        {
+            "type": "image",
+            "url": "link_to_medical_report"
+        },
+        {
+            "type": "video",
+            "url": "link_to_video_if_available"
+        }
+    ],
+    "time": {
+        "type": "exact",
+        "value": "2021-10-31T14:40:00"
+    },
+    "severity": "high",
+    "impact_estimation": "personal",
+    "problem_status": "pending_review",
+    "id": 32
+}
